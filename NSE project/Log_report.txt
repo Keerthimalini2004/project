@@ -1,0 +1,17 @@
+2024-11-17 17:12:45,946 - ====== WebDriver manager ======
+2024-11-17 17:12:47,025 - Get LATEST chromedriver version for google-chrome
+2024-11-17 17:12:47,159 - Get LATEST chromedriver version for google-chrome
+2024-11-17 17:12:47,300 - Driver [C:\Users\R KEERTHI MALINI\.wdm\drivers\chromedriver\win64\131.0.6778.69\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-17 17:13:32,002 - C_VAR1_18112024_1.DAT moved dat file to dat_folder
+2024-11-17 17:13:32,013 - CSV file C:\Users\R KEERTHI MALINI\Desktop\NSE project\downloaded_files\eq_band_changes_18112024.csv is valid
+2024-11-17 17:13:32,017 - Moved valid CSV file eq_band_changes_18112024.csv to csv_folder
+2024-11-17 17:13:32,035 - CSV file C:\Users\R KEERTHI MALINI\Desktop\NSE project\downloaded_files\sme_bands_complete_18112024.csv is valid
+2024-11-17 17:13:32,035 - Moved valid CSV file sme_bands_complete_18112024.csv to csv_folder
+2024-11-17 17:13:32,035 - Files have been organized by date and extension.
+2024-11-17 17:13:36,256 - Notification sent successfully
+2024-11-17 17:13:36,256 - Download process completed.
+2024-11-17 17:13:36,256 - Total files attempted: 3
+2024-11-17 17:13:36,256 - Total files downloaded successfully: 3
+2024-11-17 17:13:36,256 - Total files failed to download: 0
+2024-11-17 17:13:36,256 - Total duplicate files: 0
+2024-11-17 17:13:36,256 - Downloaded Successfully
